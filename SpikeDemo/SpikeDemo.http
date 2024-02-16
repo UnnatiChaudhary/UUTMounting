@@ -1,0 +1,6 @@
+@SpikeDemo_HostAddress = http://localhost:5033
+
+GET {{SpikeDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
